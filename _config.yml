@@ -7,7 +7,7 @@ google_analytics: # Tracking ID, e.g. "UA-000000-01"
 # Author
 author:
   name: Jiaxu Chen
-  desc: Hello nice to meet you
+  desc: MPhil @ STA, CUHK
   email: jiaxu0469@gmail.com
   selfie: assets/img/profile.jpg
 
@@ -17,13 +17,13 @@ social:
   behance:
   bitbucket:
   dribbble:
-  facebook: Test
+  facebook: 
   flickr:
-  github: kssim
+  github: piemontewanderer
   google_plus:
   instagram:
   keybase:
-  linkedin: https://www.linkedin.com/in/kssim/ 
+  linkedin: https://www.linkedin.com/in/jiaxu-chen-a094a8267/
   pinterest:
   reddit:
   soundcloud:
@@ -31,7 +31,7 @@ social:
   steam:
   tumblr:
   gitlab:
-  twitter: Test
+  twitter: 
   vimeo:
   wordpress:
   youtube:
