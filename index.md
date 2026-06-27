@@ -2,6 +2,8 @@
 layout: about 
 ---
 
+<br>
+
 # About Me
 My name is CHEN Jiaxu, 陈嘉旭 in Chinese characters. I am currently an **M.Phil. student in Risk Management Science** under the supervision of **Professor YAU Chun Yip**. My research interests include robust statistics,  financial time series and financial mathematics.
 
