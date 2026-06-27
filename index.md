@@ -23,3 +23,19 @@ I received a BSc in Risk Management Science (First Class Honours), with a second
 I am interested in technology trends.  
 I'm not afraid to learn languages, but I enjoy using Python.  
 I like to automate and reduce annoying things.  
+
+
+# Selected Awards and Scholarships
+* CUHK Postgraduate Studentship (2026/27 and 2027/28)
+* Department of Statistics Scholarship (2024/25)
+* Shaw College Head List/Programme Scholarship (2024/25)
+* Dean’s List, Faculty of Science (2023/24)
+* Shaw College Community Service Award (2023/24)
+
+# Student and Social Service
+* OSCEWI (Ourlady Sickle Cell Education Warrior Initiative) in Uganda (5/2023 - 7/2023)
+  * I met a lovely primary school and worked as a teacher there. The students were curious about the outside world, and I enjoyed living with them.
+  * You can read my story HERE.
+* Sports Officer, 21st Cabinet of Mainland Undergraduate Association (MUA) of CUHK (9/2023 - 8/2024)
+  * My colleagues and I launched a brand-new intercultural sports activity, Sports Fiesta, with the continuous cooperation of the Office of Students Affairs (OSA) and the International Students Association (ISA). This is the first PE-point-bearing activity that was drafted and launched by mainland students in CUHK. Sports Fiesta has become a normative student activity that is held every year now.
+  * The details can be found in OSA's Instagram post HERE.
