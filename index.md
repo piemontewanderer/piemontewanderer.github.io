@@ -14,6 +14,7 @@ I received a BSc in Risk Management Science (First Class Honours), with a second
   * Supervisor: Professor YAU Chun Yip
     
 **B.Sc. in Risk Management Science, CUHK (9/2022 - 5/2026)**
+  * First Class Honour
   * Second Major: Quantitative Finance
   * Exchange student, University of Copenhagen (Københavns Universitet, 2/2025 - 6/2025)
 
