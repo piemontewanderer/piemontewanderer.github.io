@@ -7,7 +7,6 @@ My name is CHEN Jiaxu, 陈嘉旭 in Chinese characters. I am currently an M.Phil
 
 I received a BSc in Risk Management Science (First Class Honours), with a second major in Quantitative Finance at the Chinese University of Hong Kong (CUHK). 
 
-<br/>
 
 # Academic Background
 
@@ -17,8 +16,6 @@ I received a BSc in Risk Management Science (First Class Honours), with a second
 * B.Sc. in Risk Management Science, CUHK (9/2022 - 5/2026)
   * Second Major: Quantitative Finance
   * Exchange student, University of Copenhagen (Københavns Universitet, 2/2025 - 6/2025)
-    
-<br/>
 
 
 # Selected Awards and Scholarships
