@@ -29,6 +29,6 @@ I received a BSc in Risk Management Science (First Class Honours), with a second
 * **OSCEWI (Ourlady Sickle Cell Education Warrior Initiative) in Uganda (5/2023 - 7/2023)**
   * I met a lovely primary school and worked as a teacher there. The students were curious about the outside world, and I enjoyed living with them.
   * You can read my story HERE.
-* **Sports Officer, 21^{st} Cabinet of Mainland Undergraduate Association (MUA) of CUHK (9/2023 - 8/2024)**
+* **Sports Officer, 21st Cabinet of Mainland Undergraduate Association (MUA) of CUHK (9/2023 - 8/2024)**
   * My colleagues and I launched a brand-new intercultural sports activity, Sports Fiesta, with the continuous cooperation of the Office of Students Affairs (OSA) and the International Students Association (ISA). This is the first PE-point-bearing activity that was drafted and launched by mainland students in CUHK. Sports Fiesta has become a normative student activity that is held every year now.
   * The details can be found in OSA's Instagram post HERE.
