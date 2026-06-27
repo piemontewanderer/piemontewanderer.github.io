@@ -10,10 +10,10 @@ I received a BSc in Risk Management Science (First Class Honours), with a second
 
 # Academic Background
 
-* M.Phil. in Risk Management Science, CUHK (8/2026 - Expected 6/2028)
+* **M.Phil. in Risk Management Science, CUHK (8/2026 - Expected 6/2028)**
   * Admitted with Postgraduate Studentship
   * Supervisor: Professor YAU Chun Yip
-* B.Sc. in Risk Management Science, CUHK (9/2022 - 5/2026)
+* **B.Sc. in Risk Management Science, CUHK (9/2022 - 5/2026)**
   * Second Major: Quantitative Finance
   * Exchange student, University of Copenhagen (Københavns Universitet, 2/2025 - 6/2025)
 
@@ -26,9 +26,9 @@ I received a BSc in Risk Management Science (First Class Honours), with a second
 * Shaw College Community Service Award (2023/24)
 
 # Student and Social Service
-* OSCEWI (Ourlady Sickle Cell Education Warrior Initiative) in Uganda (5/2023 - 7/2023)
+* **OSCEWI (Ourlady Sickle Cell Education Warrior Initiative) in Uganda (5/2023 - 7/2023)**
   * I met a lovely primary school and worked as a teacher there. The students were curious about the outside world, and I enjoyed living with them.
   * You can read my story HERE.
-* Sports Officer, 21^{st} Cabinet of Mainland Undergraduate Association (MUA) of CUHK (9/2023 - 8/2024)
+* **Sports Officer, 21^{st} Cabinet of Mainland Undergraduate Association (MUA) of CUHK (9/2023 - 8/2024)**
   * My colleagues and I launched a brand-new intercultural sports activity, Sports Fiesta, with the continuous cooperation of the Office of Students Affairs (OSA) and the International Students Association (ISA). This is the first PE-point-bearing activity that was drafted and launched by mainland students in CUHK. Sports Fiesta has become a normative student activity that is held every year now.
   * The details can be found in OSA's Instagram post HERE.
