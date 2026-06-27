@@ -20,11 +20,6 @@ I received a BSc in Risk Management Science (First Class Honours), with a second
     
 <br/>
 
-# Interests
-I am interested in technology trends.  
-I'm not afraid to learn languages, but I enjoy using Python.  
-I like to automate and reduce annoying things.  
-
 
 # Selected Awards and Scholarships
 * CUHK Postgraduate Studentship (2026/27 and 2027/28)
