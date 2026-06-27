@@ -26,6 +26,7 @@ I received a BSc in Risk Management Science (First Class Honours), with a second
 
 # Internship
 **Quantatitative Researcher Intern, Minsheng Royal Fund (6/2026 - 7/2026)**
+
 **Risk Management Intern, China Everbright Bank (7/2024 - 8/2024)**
 
 # Student and Social Service
