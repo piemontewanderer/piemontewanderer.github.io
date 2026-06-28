@@ -1,6 +1,6 @@
 * {
   @include box-sizing;
-  line-height: $base-line-height;
+  line-height: 1.5;
 }
 
 html,
@@ -15,7 +15,7 @@ html {
   font-size: 14px;
 
   @media (min-width: 600px) {
-    font-size: 14px;
+    font-size: 16px;
   }
 }
 
@@ -31,7 +31,7 @@ h5,
 h6 {
   color: $default-shade;
   font-family: $sans-serif;
-  line-height: normal;
+  line-height: 1.5;
 }
 
 li,
@@ -39,8 +39,7 @@ ul,
 p {
   color: $default-shade;
   font-family: $sans-serif;
-  line-height: $base-line-height;
-  margin-bottom: 1rem;
+  line-height: normal;
 }
 
 li,
