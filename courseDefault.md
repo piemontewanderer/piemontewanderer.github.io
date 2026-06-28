@@ -20,8 +20,7 @@ This course is designed to introduce the current developments in risk management
   Appointments are also welcomed.
 
 
-# Tutorial Notes
-
+**Tutorial Notes**
 
 Tutorial 1
 
