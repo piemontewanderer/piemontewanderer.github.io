@@ -26,3 +26,7 @@ $monospaced: Menlo, Monaco, monospace;
      -moz-transition: $args;
           transition: $args;
 }
+
+
+$base-line-height: 1.7; // 新增行高变量
+
