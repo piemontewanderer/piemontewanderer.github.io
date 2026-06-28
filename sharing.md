@@ -16,9 +16,9 @@ permalink: /sharing/
   * Group Project: Index Rebalance Trade with Statistical Arbitrage [[Report]](https://drive.google.com/file/d/1eIJkSM_DsDgoMaYev1pSjWBOZx1LnrBl/view?usp=sharing)
 
 * **NMAK15010U(UCPH) Continuous Time Finance 2/FinKont2**
-  * Hand-in#1: Advanced BSM & Hedging Experiment [Report](https://drive.google.com/file/d/1Vpbfh1FIit3SSHok9xbc-6TiSEZKeG2s/view?usp=sharing)
-  * Hand-in#2: American & Bermudan Option Pricing [Report](https://drive.google.com/file/d/1HQQKr6OkJ4gDCtPomCeJX8cJ3CFTK0FT/view?usp=sharing)
-  * Hand-in#3: Static hedging & Stochastic Volatility [Report](https://drive.google.com/file/d/1fSyUoRiFknqLxKAKc-U35xLFlXwFcLIg/view?usp=sharing)
+  * Hand-in#1: Advanced BSM & Hedging Experiment [[Report]](https://drive.google.com/file/d/1Vpbfh1FIit3SSHok9xbc-6TiSEZKeG2s/view?usp=sharing)
+  * Hand-in#2: American & Bermudan Option Pricing [[Report]](https://drive.google.com/file/d/1HQQKr6OkJ4gDCtPomCeJX8cJ3CFTK0FT/view?usp=sharing)
+  * Hand-in#3: Static hedging & Stochastic Volatility [[Report]](https://drive.google.com/file/d/1fSyUoRiFknqLxKAKc-U35xLFlXwFcLIg/view?usp=sharing)
 
 **General**
 
