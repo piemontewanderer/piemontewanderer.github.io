@@ -1,11 +1,9 @@
 ---
 layout: post
-title: RMSC4003
+title: RMSC4003 Statistical Modelling in Financial Markets
 info: 2026/27 Fall
 permalink: /courseDefault/
 ---
-
-# RMSC4003 Statistical Modelling in Financial Markets
 
 <br>
 
@@ -17,12 +15,12 @@ This course is designed to introduce the current developments in risk management
 * Venue:
 * Tutor's Office Hour:
   Appointments are also welcome.
-  
-<br>
+
 
 # Tutorial Notes
 
+Tutorial 1
 
 
-# Extra Material (For Interest ONLY; Not Required for Exam)
+**Extra Material (For Interest ONLY; Not Required for Exam)**
 
