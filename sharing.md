@@ -13,7 +13,7 @@ permalink: /sharing/
   * [Slides](https://drive.google.com/file/d/1EzJMm2eLUOQ2Av9bYZk16quo869TLtC0/view?usp=sharing); [Code](https://drive.google.com/file/d/12-We5TUIreZnaqbrXZ-nR0ISM6hYY9gV/view?usp=sharing)
 
 * **RMSC4002(CUHK) Financial Data Analysis with Machine Learning**
-  * Group Project: Index Rebalance Trade with Statistical Arbitrage [Report](https://drive.google.com/file/d/1eIJkSM_DsDgoMaYev1pSjWBOZx1LnrBl/view?usp=sharing)
+  * Group Project: Index Rebalance Trade with Statistical Arbitrage [[Report]](https://drive.google.com/file/d/1eIJkSM_DsDgoMaYev1pSjWBOZx1LnrBl/view?usp=sharing)
 
 * **NMAK15010U(UCPH) Continuous Time Finance 2/FinKont2**
   * Hand-in#1: Advanced BSM & Hedging Experiment [Report](https://drive.google.com/file/d/1Vpbfh1FIit3SSHok9xbc-6TiSEZKeG2s/view?usp=sharing)
