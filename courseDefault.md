@@ -2,7 +2,7 @@
 layout: post
 title: RMSC4003
 info: 2026/27 Fall
-permalink: courseDefault
+permalink: /courseDefault/
 ---
 
 # RMSC4003 Statistical Modelling in Financial Markets
