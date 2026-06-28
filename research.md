@@ -5,4 +5,5 @@ permalink: /research/
 ---
 
 # Research
-这里开始写你的研究内容...
+I am still working on my research interests. Keep in touch! 
+
