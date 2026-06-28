@@ -9,9 +9,8 @@ permalink: /sharing/
 **Projects**
 
 * **Final Year Project: Arbitrage Filtering of Option Prices: A Simple Real-Time Approach**
-  * Original Paper: [Link](https://doi.org/10.1080/14697688.2025.2574907)
-  * Slides: [Link](https://drive.google.com/file/d/1EzJMm2eLUOQ2Av9bYZk16quo869TLtC0/view?usp=sharing)
-  * Code [Link](https://drive.google.com/file/d/12-We5TUIreZnaqbrXZ-nR0ISM6hYY9gV/view?usp=sharing)
+  * [Original Paper](https://doi.org/10.1080/14697688.2025.2574907)
+  * [Slides](https://drive.google.com/file/d/1EzJMm2eLUOQ2Av9bYZk16quo869TLtC0/view?usp=sharing); [Code](https://drive.google.com/file/d/12-We5TUIreZnaqbrXZ-nR0ISM6hYY9gV/view?usp=sharing)
 
 * **RMSC4002(CUHK) Financial Data Analysis with Machine Learning**
   * Group Project: Index Rebalance Trade with Statistical Arbitrage [Report](https://drive.google.com/file/d/1eIJkSM_DsDgoMaYev1pSjWBOZx1LnrBl/view?usp=sharing)
