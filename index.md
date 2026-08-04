@@ -42,4 +42,8 @@ I received a BSc in Risk Management Science (First Class Honours), with a second
   * My colleagues and I launched a brand-new intercultural sports activity, Sports Fiesta, with the continuous cooperation of the Office of Students Affairs (OSA) and the International Students Association (ISA). This is the first PE-point-bearing activity that was drafted and launched by mainland students in CUHK. Sports Fiesta has become a normative student activity that is held every year now.
   * The details can be found in OSA's Instagram post [HERE](https://www.instagram.com/p/C4pRTVeJoep/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==).
 
+# Contact
+* Phone Number: 3943 8527
+* Address: LSB G24
+* [CUHK Webpage](https://www.sta.cuhk.edu.hk/peoples/chen-jiaxu/)
 
