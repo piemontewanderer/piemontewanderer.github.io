@@ -14,4 +14,4 @@ I am on duty of teaching assistant of the following courses:
 
 **Postgraduate courses:**
 
-* RMSC6002 Credit Risk Management [26/27 Fall](/f26r6002/)
+* RMSC6002 Credit Risk Management [[26/27 Fall](/f26r6002/)]
